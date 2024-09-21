@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\sdk\\game_sdk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|d:\\c#\\sdk\\game_sdk\\structures\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|solutionrelative:structures\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|d:\\c#\\sdk\\game_sdk\\services\\sectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|solutionrelative:services\\sectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|d:\\c#\\sdk\\game_sdk\\structures\\addstudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|solutionrelative:structures\\addstudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|d:\\c#\\sdk\\game_sdk\\structures\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|solutionrelative:structures\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|d:\\c#\\sdk\\game_sdk\\structures\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|solutionrelative:structures\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|d:\\c#\\sdk\\game_sdk\\structures\\addstudentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|solutionrelative:structures\\addstudentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|d:\\c#\\sdk\\game_sdk\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|d:\\c#\\sdk\\game_sdk\\structures\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|solutionrelative:structures\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|d:\\c#\\sdk\\game_sdk\\structures\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|solutionrelative:structures\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|d:\\c#\\sdk\\game_sdk\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D3A88-AC6D-4B6B-8122-B64F1B0B5218}|game_sdk.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\c#\\sdk\\game_sdk\\Structures\\Student.cs",
+              "RelativeDocumentMoniker": "Structures\\Student.cs",
+              "ToolTip": "D:\\c#\\sdk\\game_sdk\\Structures\\Student.cs",
+              "RelativeToolTip": "Structures\\Student.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:10:53.394Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\c#\\sdk\\game_sdk\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "D:\\c#\\sdk\\game_sdk\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:27:17.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Score.cs",
+              "DocumentMoniker": "D:\\c#\\sdk\\game_sdk\\Structures\\Score.cs",
+              "RelativeDocumentMoniker": "Structures\\Score.cs",
+              "ToolTip": "D:\\c#\\sdk\\game_sdk\\Structures\\Score.cs",
+              "RelativeToolTip": "Structures\\Score.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:03:32.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\c#\\sdk\\game_sdk\\Structures\\Teacher.cs",
+              "RelativeDocumentMoniker": "Structures\\Teacher.cs",
+              "ToolTip": "D:\\c#\\sdk\\game_sdk\\Structures\\Teacher.cs",
+              "RelativeToolTip": "Structures\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:55:16.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddStudentResponse.cs",
+              "DocumentMoniker": "D:\\c#\\sdk\\game_sdk\\Structures\\AddStudentResponse.cs",
+              "RelativeDocumentMoniker": "Structures\\AddStudentResponse.cs",
+              "ToolTip": "D:\\c#\\sdk\\game_sdk\\Structures\\AddStudentResponse.cs",
+              "RelativeToolTip": "Structures\\AddStudentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:49:37.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Progress.cs",
+              "DocumentMoniker": "D:\\c#\\sdk\\game_sdk\\Structures\\Progress.cs",
+              "RelativeDocumentMoniker": "Structures\\Progress.cs",
+              "ToolTip": "D:\\c#\\sdk\\game_sdk\\Structures\\Progress.cs",
+              "RelativeToolTip": "Structures\\Progress.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:37:18.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Section.cs",
+              "DocumentMoniker": "D:\\c#\\sdk\\game_sdk\\Structures\\Section.cs",
+              "RelativeDocumentMoniker": "Structures\\Section.cs",
+              "ToolTip": "D:\\c#\\sdk\\game_sdk\\Structures\\Section.cs",
+              "RelativeToolTip": "Structures\\Section.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:36:43.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStudentRequest.cs",
+              "DocumentMoniker": "D:\\c#\\sdk\\game_sdk\\Structures\\AddStudentRequest.cs",
+              "RelativeDocumentMoniker": "Structures\\AddStudentRequest.cs",
+              "ToolTip": "D:\\c#\\sdk\\game_sdk\\Structures\\AddStudentRequest.cs",
+              "RelativeToolTip": "Structures\\AddStudentRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:29:06.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SectionService.cs",
+              "DocumentMoniker": "D:\\c#\\sdk\\game_sdk\\Services\\SectionService.cs",
+              "RelativeDocumentMoniker": "Services\\SectionService.cs",
+              "ToolTip": "D:\\c#\\sdk\\game_sdk\\Services\\SectionService.cs",
+              "RelativeToolTip": "Services\\SectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:57:56.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\c#\\sdk\\game_sdk\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "D:\\c#\\sdk\\game_sdk\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:57:42.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
