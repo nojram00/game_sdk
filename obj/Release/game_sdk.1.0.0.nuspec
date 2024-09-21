@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>game_sdk</id>
+    <version>1.0.0</version>
+    <authors>game_sdk</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="e813ea9bcacc755583c4e0774ec26d6c6729874c" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\c#\sdk\game_sdk\bin\Release\net8.0\game_sdk.dll" target="lib\net8.0\game_sdk.dll" />
+  </files>
+</package>

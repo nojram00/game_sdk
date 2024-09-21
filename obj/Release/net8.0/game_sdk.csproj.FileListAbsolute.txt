@@ -1,0 +1,12 @@
+D:\c#\sdk\game_sdk\bin\Release\net8.0\game_sdk.deps.json
+D:\c#\sdk\game_sdk\bin\Release\net8.0\game_sdk.dll
+D:\c#\sdk\game_sdk\bin\Release\net8.0\game_sdk.pdb
+D:\c#\sdk\game_sdk\obj\Release\net8.0\game_sdk.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\sdk\game_sdk\obj\Release\net8.0\game_sdk.AssemblyInfoInputs.cache
+D:\c#\sdk\game_sdk\obj\Release\net8.0\game_sdk.AssemblyInfo.cs
+D:\c#\sdk\game_sdk\obj\Release\net8.0\game_sdk.csproj.CoreCompileInputs.cache
+D:\c#\sdk\game_sdk\obj\Release\net8.0\game_sdk.sourcelink.json
+D:\c#\sdk\game_sdk\obj\Release\net8.0\game_sdk.dll
+D:\c#\sdk\game_sdk\obj\Release\net8.0\refint\game_sdk.dll
+D:\c#\sdk\game_sdk\obj\Release\net8.0\game_sdk.pdb
+D:\c#\sdk\game_sdk\obj\Release\net8.0\ref\game_sdk.dll
